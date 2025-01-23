@@ -1,0 +1,1 @@
+Fout bij bestand \\?\C:\Users\cihat\Downloads\Phishing_dataset1\benign\2018\2018\77b56f97-cc84-11e8-ab7d-0a2a79604fa0.htm: [Errno 22] Invalid argument: '\\\\?\\C:\\Users\\cihat\\Downloads\\Phishing_dataset1\\benign\\2018\\2018\\77b56f97-cc84-11e8-ab7d-0a2a79604fa0.htm'
